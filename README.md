@@ -13,7 +13,10 @@ Easy Calculator is an online calculator application built using vanilla JavaScri
 
 ## Demo
 
-A live demo of the SimpleCalculator can be accessed [here](#).
+A screenshot of the SimpleCalculator:
+
+![EasyCalculator Screenshot](assets/Screenshot.png)
+
 
 ## Usage
 
