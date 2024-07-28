@@ -13,7 +13,10 @@ Easy Calculator is an online calculator application built using vanilla JavaScri
 
 ## Demo
 
-A live demo of the SimpleCalculator can be accessed [here](#).
+A screenshot of the SimpleCalculator:
+
+![EasyCalculator Screenshot](assets/Screenshot.png)
+
 
 ## Usage
 
@@ -24,7 +27,6 @@ To use the SimpleCalculator, simply download or clone the repository and open th
 - `index.html`: The main HTML file that structures the calculator interface.
 - `style.css`: The CSS file that styles the calculator.
 - `script.js`: The JavaScript file that adds functionality to the calculator.
-- `demo.css`: An additional CSS file that provides an alternative styling option.
 
 ## Future Improvements
 
