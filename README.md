@@ -2,7 +2,7 @@
 
 ## Overview
 
-Easy Calculator is an online calculator application built using vanilla JavaScript, HTML, and CSS. This project marks my first venture into web development using these technologies.
+Easy Calculator is an online calculator application developed using vanilla JavaScript, HTML, and CSS. This project marks my first venture into web development using these technologies.
 
 ## Features
 
